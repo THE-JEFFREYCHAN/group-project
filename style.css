@@ -1,0 +1,6 @@
+#banner{
+    box-sizing: border-box;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    max-width: 1160px
+}
