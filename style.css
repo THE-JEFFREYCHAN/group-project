@@ -1,5 +1,4 @@
 #banner{
-    margin-left: auto !important;
-    margin-right: auto !important;
+    box-sizing: border-box;
     width:100%
 }
